@@ -46,4 +46,3 @@ Feel free to submit pull requests to add more awesome browser games. Please ensu
 - Playable directly in modern web browsers
 - Active and maintained
 - Not requiring additional downloads or plugins
-
